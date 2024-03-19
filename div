@@ -1,0 +1,38 @@
+mkdir myDownloadPage
+cd myDownloadPage
+npm init -y
+npm install express
+const express = require('express');
+const path = require('path');
+const app = express();
+
+// Serve your static files (HTML, CSS, JS, Images)
+app.use(express.static('public'));
+
+// YangKoch.html
+// Assuming your HTML file is named "YangKoch.html"
+
+// Route for downloading a file
+// Make sure to replace 'path/to/your/YangKoch.htmldownloadableFile' with the actual file path
+app.get('/download', (req, res) => {
+  const file = `${__dirname}/path/to/your/downloadabYangKoch.html`; // Example: "/files/myDownloadableFile.zip"
+  res.download(file); // Set the correct file path and name here
+});
+
+// Placeholder route for "Contact Sales" form submission
+// You'll need a form in your HTML that sends a POST request to '/contact-sales'
+app.post('/contact-sales', (req, res) => {
+  // Here you would handle the form submission.
+  // For example, saving the data to a database, sending an email, etc.
+  console.log(req.body); // You'll need body-parser or Express' built-in middleware to handle request body
+
+  // Redirect back to the download page or send a response
+  res.redirect('/downloadPage.html'); // Redirect back or send a response as needed
+});
+
+// Start the server
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => {
+  console.log(`Server is running on http://localhost:${PORT}`);
+});
+node server.js
