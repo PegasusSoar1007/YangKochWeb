@@ -1,0 +1,96 @@
+<html>
+ <head>
+  <title>
+   Thank You for Downloading
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <style>
+   body {
+            font-family: 'Open Sans', sans-serif;
+        }
+  </style>
+ </head>
+ <body class="bg-white text-gray-800">
+  <div class="container mx-auto px-4">
+   <nav class="flex justify-between items-center py-4">
+    <div class="flex items-center">
+     <img alt="Company logo placeholder" class="mr-8" height="30" src="https://oaidalleapiprodscus.blob.core.windows.net/private/org-OBwPqU8tEyJkXwJ0yPIvUDCs/user-5lb2C9juTVXIbB1EPmh6a4kt/img-RNPtncrxmw81E677w477C7iP.png?st=2024-03-19T02%3A53%3A53Z&amp;se=2024-03-19T04%3A53%3A53Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscd=inline&amp;rsct=image/png&amp;skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&amp;sktid=a48cca56-e6da-484e-a814-9c849652bcb3&amp;skt=2024-03-19T00%3A11%3A10Z&amp;ske=2024-03-20T00%3A11%3A10Z&amp;sks=b&amp;skv=2021-08-06&amp;sig=MhhxyRU1In7lKW24yWezsKd/NEcSx/M8WtwjcaV80hA%3D" width="100"/>
+     <ul class="flex space-x-4">
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Platform
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Solutions
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Pricing
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Partners
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Resources
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Company
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="flex items-center">
+     <a class="text-green-500 hover:text-green-600 mr-4" href="#">
+      Free Download
+     </a>
+     <a class="text-gray-600 hover:text-gray-800 mr-4" href="#">
+      Sign In
+     </a>
+     <a class="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600" href="#">
+      Contact Sales
+     </a>
+    </div>
+   </nav>
+   <div class="text-center mt-12">
+    <h1 class="text-4xl font-bold mb-4">
+     Thank you for downloading!
+    </h1>
+    <p class="text-gray-600 mb-6">
+     Didn't download?
+     <a class="text-green-500 hover:text-green-600" href="#">
+      Go here
+     </a>
+     to download your version. For installation assistance, refer to
+     <a class="text-green-500 hover:text-green-600" href="#">
+      Troubleshooting
+     </a>
+     .
+    </p>
+    <div class="flex justify-center items-center mb-8">
+     <i class="fas fa-check-circle text-green-500 text-6xl">
+     </i>
+    </div>
+    <p class="text-lg mb-6">
+     Skip the installation process with our cloud-based, JupyterLab notebook experience – fully-loaded with Anaconda packages, Panel app deployment, sample data catalogs, and notebook templates.
+    </p>
+    <a class="bg-green-500 text-white px-6 py-3 rounded-md inline-flex items-center hover:bg-green-600" href="#">
+     Launch Cloud Notebooks
+     <i class="fas fa-arrow-right ml-2">
+     </i>
+    </a>
+   </div>
+  </div>
+ </body>
+</html>
