@@ -1,0 +1,219 @@
+<html>
+ <head>
+  <title>
+   Thank You for Downloading
+  </title>
+  <script src="https://cdn.tailwindcss.com">
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&amp;display=swap" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
+  <link rel="stylesheet" href="../css/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    .story-content img {
+        max-width: 100%;
+        height: auto;
+    }
+    .story-content figure {
+        text-align: center; /* Keeps figures centered */
+        margin: 2em 0;
+    }
+    .story-content figcaption {
+        margin-top: 0.5em;
+        font-size: 0.9em;
+        color: #6b7280;
+        text-align: right; /* Aligns figcaption text to the right */
+    }
+    .story-content h3, .story-content p {
+        font-size: 1.5em; /* Makes font size larger */
+        text-align: left; /* Aligns text to the right */
+        color: #111827;
+    }
+    .story-content h3 {
+        font-weight: 700;
+        margin-top: 2em;
+        font-size: 2em;
+        margin-bottom: 0.5em;
+    }
+    .story-content p {
+        margin-bottom: 1em;
+        line-height: 1.6;
+    }
+    .story-content .bold {
+        font-weight: 700;
+    }
+    .story-content .text-italic {
+        font-style: italic;
+    }
+    .story-content {
+        max-width: 700px; /* Adjust this value to control the width */
+        margin: auto; /* Centers the content */
+        padding: 20px; /* Adds some padding around the content */
+    }
+    #Our-Unique-Value-Proposition {
+        font-size: 30px;
+    }
+</style>
+
+</style>
+  </head>
+
+  <body class="bg-white text-gray-800">
+  <div class="container mx-auto px-4">
+   <nav class="flex justify-between items-center py-1 border-b-2 border-gray-200">
+    <div class="flex items-center">
+     <img alt="YANGKOCH LOGO" class="companyLogo" src="../img/transparent-long-logo.png" width="150"/>
+     <ul class="flex space-x-4 text-lg">
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="equestrian.html">
+        Equestrian
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Shop
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Medical
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Consulting
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Education
+       </a>
+      </li>
+      <li>
+       <a class="text-gray-600 hover:text-gray-800" href="#">
+        Social
+       </a>
+      </li>
+     </ul>
+    </div>
+    <div class="flex items-center">
+     <a class="text-gray-600 hover:text-gray-800 mr-4" href="#">
+      Sign In
+     </a>
+     <a class="bg-green-500 text-white px-4 py-2 rounded-md hover:bg-green-600" href="#">
+      Contact Sales
+     </a>
+    </div>
+   </nav>
+   <div class="text-center mt-12">
+    <h1 class="text-4xl font-bold mb-4">
+     Help us manufacture YangKoch™ Safety Breeches!
+    </h1>
+
+    <div class="breechesVideo" style="padding:56.25% 0 0 0;position:relative;">
+      <iframe src="https://player.vimeo.com/video/924888799?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Help Us Bring YangKoch™ Equestrian Safety Breeches to Riders!"></iframe>
+    </div>
+
+    <a class="backButton bg-green-500 text-white px-6 py-3 rounded-md inline-flex items-center hover:bg-green-600" href="#">
+      Back this now
+      <i class="fas fa-arrow-right ml-2">
+      </i>
+     </a>
+
+     <div class="col col-12 grid-col-9-lg z1"><div class="max-w113 m-auto"><div><div><div><div id="story" class="mb3"><h3 id="story" class="normal mb3 mb7-sm mobile-hide page-anchor">Story</h3></div><div class="story-content"><div class="rte__content ck ck-content"><div><div class="template asset" contenteditable="false" data-alt-text="" data-caption="" data-id="44316269">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/316/269/baf6d6ef0c1875c60856e80d9008637c_original.png?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710237002&amp;gif-q=50&amp;lossless=true&amp;s=32e06a59efa96a34ef97ff8b30d05dda">
+      </figure>
+      
+      </div>
+      <h3 id="h:Meet-The-YangKochTM-Founders" class="page-anchor">Meet The YangKoch™ Founders</h3><div class="template asset" contenteditable="false" data-alt-text="" data-caption="Founders of YangKoch™ Equestrian Breeches, Veronika Kochetova and NIni Yang" data-id="44316272">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/316/272/73e7cab97c17ad65924a33e3b862cb08_original.jpeg?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710237026&amp;gif-q=50&amp;q=92&amp;s=b088bce8d77b2cc45fb0997365cb3b24">
+      <figcaption class="px2">Founders of YangKoch™ Equestrian Breeches, Veronika Kochetova and NIni Yang</figcaption>
+      </figure>
+      
+      </div>
+      <h3 id="h:-A-Bit-About-Me-" class="page-anchor"><span class="bold">-A Bit About Me-</span></h3><p><span class="bold">Hello! My name is Veronika Kochetova and I am the cofounder of YangKoch™ Equestrian Breeches (2024). &nbsp; As of this writing I am 20 years old. I feel incredibly grateful to have this opportunity to share my product idea with you.</span></p><p><span class="bold">YangKoch™ Breeches are the safest riding breeches I've ever worn on a horse. &nbsp;They are my own product design and my dream now is to bring a deep sense of safety and security to the horse riding community worldwide.</span></p><p>If you would've asked my 18 year old self what I'd imagine Veronika Kochetova doing in March of 2024....</p><p>The answer would've been a little different than "designing safety breeches" and "seeking funding".</p><p>I would've said: "I see myself holding up a giant gold trophy at a World Cup Qualifier showjumping stadium in Europe - probably Aachen, Germany. &nbsp;My horse Vindicator is standing behind me in a blue, velvety blanket. We qualified for Paris 2024..."</p><p>-------------------------------------------------------------------------</p><p>My whole life I've wanted to be a top professional showjumper. &nbsp;To be in the big leagues. To win the Nations Cups, World Cups, World Championships and, of course, the Olympic Games one day.</p><div class="template asset" contenteditable="false" data-alt-text="" data-caption="Me competing on different horses across USA (2018-2022)" data-id="44301052">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/301/052/a1292484bdb1c40d0243afe80adb46aa_original.png?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710136367&amp;gif-q=50&amp;lossless=true&amp;s=2986474c27652c83b8d03add84dfce47">
+      <figcaption class="px2">Me competing on different horses across USA (2018-2022)</figcaption>
+      </figure>
+      
+      </div>
+      <p>As a teen, I did my schooling at home and online so that I could be with horses, train and compete at showjumping events as much as time and money could allow.</p><p>When I turned 18, I wanted to be independent, not have to ask my family to support me financially. So I ventured out on my own in the horse sport industry.&nbsp;</p><p>I started training young sporthorses for a Sport Stable and fell in love with an adorable, incredibly talented horse I called "Hamster".</p><p>Soon we were winning consecutively in our division, and in early October of 2022, we even competed in the Young Horse National Championships in Princeton, New Jersey.</p><div class="template asset" contenteditable="false" data-alt-text="" data-caption="Hamster and I winning our division at Wellington, FL and Saugerties, NY." data-id="44328207">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/328/207/f84892287a7f509330d4751a7d6095f1_original.png?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710305379&amp;gif-q=50&amp;lossless=true&amp;s=d36612a0098426d0dddbd2b13e242b46">
+      <figcaption class="px2">Hamster and I winning our division at Wellington, FL and Saugerties, NY.</figcaption>
+      </figure>
+      
+      </div>
+      <p>Although we did not win the Championship, I was so grateful to my horse and my trainers, and filled with immense excitement for where the future will take us.&nbsp;</p><p>I had my mind set on the nearest World Equestrian Games.</p><p>Yet, our future vision is not always as clear ahead as we may desire...</p><p>In the middle of that October, I was severely injured in a horse accident. &nbsp;I remember waking up in the hospital, and the middle-aged female surgeon listing which organs of mine had been removed. &nbsp;I remember seeing a Frankenstein looking stomach with 18 or 19 giant metal staples attaching one skin flap to the other.</p><div class="template asset" contenteditable="false" data-alt-text="" data-caption="" data-id="44301069">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/301/069/3c65164c06c263d934c0693f6a072974_original.jpeg?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710136570&amp;gif-q=50&amp;q=92&amp;s=41818c6b57252ff9e04d75c8cf632d61">
+      </figure>
+      
+      </div>
+      <p>If you're thinking I couldn't ride for a while after, you're more than right.</p><p>The first 2 weeks I could barely lift my spine higher than 90 degrees to slowly walk around.&nbsp;</p><p>I remember wondering if I'd ever walk straight again. If I'd ever ride a horse. I felt like something just grabbed 18 years worth of direction right from under me.</p><p>I didn't know what to do. I didn't even know who I was anymore. What am I meant to do?&nbsp;</p><p>Thankfully my family reached out to take care of me. But any hopes of support for horse sport was out of the question to my family.&nbsp;</p><p>And, I could barely walk...</p><p>How could I even continue to independently support myself and my horse passion?</p><p>I don't like to retrace the time following. I was quite depressed, and got extremely nervous entering a barn even. I'd get flashbacks and waves of fear would roll into my body.</p><p>Slowly, I recovered, adopted a cat for emotional stability, and tried to find myself again.</p><div class="template asset" contenteditable="false" data-alt-text="" data-caption="My cat Kiki, who I &nbsp;adopted 3 weeks after my surgery" data-id="44328380">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/328/380/80691a170ee5d39b7615ad4cb105904f_original.png?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710307095&amp;gif-q=50&amp;lossless=true&amp;s=633c15bfcd761bf8656cfefc58226804">
+      <figcaption class="px2">My cat Kiki, who I &nbsp;adopted 3 weeks after my surgery</figcaption>
+      </figure>
+      
+      </div>
+      <p>Given how deep my injury was, I could not return to professional sport for many months. &nbsp;</p><p>The doctor told me if I were to get injured again, it could be much more serious due to the abdominal injury and surgical procedure I underwent.</p><p>I'll even admit this - I didn't have a desire to get back on a horse for 6 whole months after my surgery.</p><p>I would come to visit Hamster (my favorite horse) and hug him with all my heart and soul. I would go to the grassy green pastures and watch the beautiful horses grazing as the sun dipped below the horizon.</p><p>I was sure about one thing then and am sure about it now - I wanted horses to always be part of my life. &nbsp;And I want to help new riders and riders like myself <span class="bold">feel secure with our lifelong best friends</span>. &nbsp;</p><p>And that's why I started YangKoch™ Safety Riding Breeches.</p><p>With unrelenting support from my horse riding client and YangKoch™ cofounder, Nini Yang.</p><h3 id="h:-Why-These-Breeches-" class="page-anchor"><span class="bold">-Why These Breeches?-</span></h3><div class="template asset" contenteditable="false" data-alt-text="" data-caption="" data-id="44316269">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/316/269/baf6d6ef0c1875c60856e80d9008637c_original.png?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710237002&amp;gif-q=50&amp;lossless=true&amp;s=32e06a59efa96a34ef97ff8b30d05dda">
+      </figure>
+      
+      </div>
+      <p><span class="bold">YangKoch™ deepest focus is on feeling safe and secure with our beloved animals, especially for riders recovering from traumatizing injuries. &nbsp;Regaining confidence is our ultimate priority.</span></p><p><span class="bold">By feeling secure under saddle in our riding apparel, we can focus on training, and connecting with our horse, or re-establishing that trust in my case.</span></p><p><span class="bold">-------------------------------------------------------------------------------------</span></p><h4 id="Our-Unique-Value-Proposition" class="page-anchor"><span class="bold">Our Unique Value Proposition:</span></h4><p><span class="bold">-------------------------------------------------------------------------------------</span></p><h4 id="h:1-Security-" class="page-anchor"><span class="bold">1. Security&nbsp;</span></h4><p>Equestrians feel <span class="bold">firmly secure</span> and <span class="bold">connected to their horse</span> with the help of a <span class="bold">full-grip silicon design</span> spanning from just below the tailbone all the way down to the lower calf.</p><p>While many competing breeches in the horse industry have silicon grip at certain regions of the pant, we designed YangKoch™ Safety Breeches to "siliconate" an extensive amount of surface area - to <span class="bold">maximize security in the saddle</span>.</p><div class="template asset" contenteditable="false" data-alt-text="" data-caption="" data-id="44328309">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/328/309/e87d478e1dee8c2c1c5c4764c824a3c5_original.png?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710306291&amp;gif-q=50&amp;lossless=true&amp;s=451952d6752a2902e42d79c6798567d1">
+      </figure>
+      
+      </div>
+      <p>Whether a rider is wearing knee-high riding boots, ankle-high paddock boots, or is in sneakers on their pony, trust that <span class="bold">saddle grip is as strong as can be</span> with our extensive silicone design.</p><h4 id="h:2-Durability" class="page-anchor"><span class="bold">2. Durability</span></h4><p>I spent several months sifting and sourcing to find high quality material for<span class="bold"> powerfully durable</span> riding breeches.&nbsp;</p><p><img class="image" src="https://ksr-ugc.imgix.net/assets/044/341/693/31c64fdcac1b28120739e0b46a4395fa_original.png?ixlib=rb-4.1.0&amp;w=2000&amp;fit=max&amp;v=1710392724&amp;gif-q=50&amp;q=92&amp;s=81d35ec58820a971b4e7fff0f2276000" data-id="44341693">The breeches are <span class="bold">thick enough</span> to withstand rapid wear-and-tear yet are <span class="bold">moisture-wicking</span> to ensure riders feel cool and ventilated inside and outside of the saddle.</p><p>By focusing on the <span class="bold">durability</span> of both the fabric and silicon, there's no need to worry about replacing them in just a few months.&nbsp;</p><p>(I've washed my prototype sample about a dozen times already and actually most of the photos in this campaign are after that 12th wash...)</p><h4 id="h:3-Bodyhugging-Comfort-for-All" class="page-anchor"><span class="bold">3. Bodyhugging Comfort for All</span></h4><p>Of course, we did not forget about style and comfort.</p><p>The YangKoch™ Breeches <span class="bold">feel like yoga pants</span>. (I have done the splits in them.)</p><div class="template asset" contenteditable="false" data-alt-text="" data-caption="" data-id="44341860">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/341/860/4f5cbdc916b09a780d3525fd67019032_original.png?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710394401&amp;gif-q=50&amp;lossless=true&amp;s=2d04e30d8dbc78f2682163880bc7c1b0">
+      </figure>
+      
+      </div>
+      <p>They are <span class="bold">cottony soft</span> and <span class="bold">light</span> on the rider. &nbsp;And they fit very nicely around the waistline, providing an attractive bodyhugging fit for all body types!</p><p>(I even had a non-equestrian friend try them on for fun, and ended up asking for a riding lesson because she thought she looked so good in them)</p><h3 id="h:-Who-They-re-For-" class="page-anchor"><span class="bold">-Who They're For-</span></h3><p>Whether you're a professional equestrian, a passionate amateur rider, or a newbie enthusiast, the (soon to come) YangKoch™ Breeches are <span class="bold">designed to make you feel your most confident and secure self in the saddle.</span></p><p>Of course, my greatest motivation in making these breeches come to life - is to help new riders like my wonderful client and injured riders like myself <span class="bold">feel safe in the saddle</span>.</p><h3 id="h:Your-Help-Can-Kickstart-Our-Safety-Breeches-" class="page-anchor">Your Help Can Kickstart Our Safety Breeches!</h3><p><span class="bold">Your financial backing, no matter how small, will help bring my product to the equestrian market.&nbsp;</span></p><p><span class="bold">⬇️Give a $1, $5, $15 or more for my product by clicking the green "Pledge" button.⬇️</span></p><p>While wearing my YangKoch™ Prototype Safety Breeches in late 2023 to now, I have felt more secure than in my entire lifetime with horses. I feel firmly gripped to the saddle and have regained a lot of my past confidence as a horse athlete. I hope, by the end of this year, to be back in the stadiums competing again.&nbsp;</p><div class="template asset" contenteditable="false" data-alt-text="" data-caption="" data-id="44342005">
+      <figure class="image">
+      <img alt="" class="fit" src="https://ksr-ugc.imgix.net/assets/044/342/005/3518c2146d6d70d1468e29193edff6a1_original.png?ixlib=rb-4.1.0&amp;w=680&amp;fit=max&amp;v=1710396633&amp;gif-q=50&amp;lossless=true&amp;s=85e89b0ad194bacde6a5a056417202cc">
+      </figure>
+      
+      </div>
+      <p>Together...</p><p>We can help <span class="bold">seriously injured riders</span> feel safer and more secure when riding their horse again. We can help <span class="bold">newbies</span> across the world start their equestrian journey safely. We can help <span class="bold">professional equestrians</span> prioritize their safety at all times. And let their mind free to focus on training their sporthorses.</p><p>Join us in this mission.&nbsp;</p><p>Your support not only brings YangKoch™ Breeches to market but also contributes to a future where every ride is safe, confident, and joyful.&nbsp;</p><p>Let's transform equestrian safety together.</p><h4 id="h:-Click-the-green-button-to-Back-our-project-today-" class="page-anchor">➡️Click the green button to "Back our project" today.</h4><h3 id="h:Thank-You-Note-From-Me" class="page-anchor">Thank You Note From Me</h3><p>Dear YangKoch™ Supporter,&nbsp;</p><p>Thank you so much for your time and attention. We appreciate in advance your resonation for our product idea. &nbsp;</p><p>If YangKoch™ turns out to be a successful venture one day, I pledge to set up a fund for post-trauma recovering equestrians. I am grateful to have had my family's financial support after my surgery. Other horse riders may not be as lucky. During such a sudden change of life course, a financial cushion will greatly alleviate stress and feelings of helplessness, allowing time for recovery and re-finding of purpose.</p><p>Many blessings,</p><p>And stay tuned for YangKoch™ Safety Breeches!</p><p>~ Veronika Kochetova &amp; Nini Yang</p><p>Founders of YangKoch™ Equestrian</p><p><span class="text-italic"><span class="bold">People’s eyes are always on the smiles of the 1% whose dreams come true... Who will look back at the tears of the 99% that fail? Somehow, I happened to be looking back and I saw you, a young girl who humbled through and trying so hard to sculpt the outline of her fading dream... &nbsp;life is a journey, let us take a walk</span></span></p></div></div></div></div></div></div><div><div><div class="pt4">
+      </body>
+        <footer class="bg-white border-t-2 border-gray-200 mt-12">
+          <div class="container mx-auto px-4 py-8">
+            <div class="flex flex-wrap justify-between text-gray-800">
+              <div class="w-full sm:w-1/2 md:w-1/4 mb-6">
+                <h2 class="text-lg font-semibold mb-4">Quick Links</h2>
+                <ul>
+                  <li><a href="#" class="text-gray-600 hover:text-green-500">About Us</a></li>
+                  <li><a href="#" class="text-gray-600 hover:text-green-500">Contact Us</a></li>
+                  <li><a href="#" class="text-gray-600 hover:text-green-500">Privacy Policy</a></li>
+                  <li><a href="#" class="text-gray-600 hover:text-green-500">Terms of Service</a></li>
+                </ul>
+              </div>
+              <div class="w-full sm:w-1/2 md:w-1/4 mb-6">
+                <h2 class="text-lg font-semibold mb-4">Follow Us</h2>
+                <div>
+                  <a href="#" class="text-gray-600 hover:text-green-500 mr-4"><i class="fab fa-facebook-f"></i></a>
+                  <a href="#" class="text-gray-600 hover:text-green-500 mr-4"><i class="fab fa-twitter"></i></a>
+                  <a href="#" class="text-gray-600 hover:text-green-500 mr-4"><i class="fab fa-instagram"></i></a>
+                  <a href="#" class="text-gray-600 hover:text-green-500"><i class="fab fa-linkedin-in"></i></a>
+                </div>
+              </div>
+            </div>
+            <div class="text-center mt-8">
+              <p class="text-gray-600">© 2024 YANGKOCH. All rights reserved.</p>
+            </div>
+          </div>
+        </footer>
+
+
+
+</html>
