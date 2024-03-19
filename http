@@ -1,0 +1,77 @@
+mkdir yangkoch-backend
+cd yangkoch-backend
+npm init -y
+npm install express mongoose bcryptjs dotenv
+npm install jsonwebtoken
+require('dotenv').config();
+const express = require('express');
+const mongoose = require('mongoose');
+
+const app = express();
+
+app.use(express.json()); // For parsing application/json
+
+// Connect to MongoDB
+mongoose.connect(process.env.MONGODB_URI, { useNewUrlParser: true, useUnifiedTopology: true })
+  .then(() => console.log('MongoDB connected'))
+  .catch(err => console.log(err));
+
+// Define routes
+app.get('/', (req, res) => {
+  res.send('Welcome to the YangKoch website backend!');
+});
+
+// Start the server
+const PORT = process.env.PORT || 3000;
+app.listen(PORT, () => console.log(`Server running on http://localhost:${PORT}`));
+const mongoose = require('mongoose');
+const bcrypt = require('bcryptjs');
+
+const UserSchema = new mongoose.Schema({
+  email: { type: String, required: true, unique: true },
+  password: { type: String, required: true }
+});
+
+// Hash password before saving
+UserSchema.pre('save', async function(next) {
+  if (!this.isModified('password')) return next();
+  this.password = await bcrypt.hash(this.password, 12);
+  next();
+});
+
+module.exports = mongoose.model('User', UserSchema);
+const User = require('./models/User');
+const bcrypt = require('bcryptjs');
+
+// Registration route
+app.post('/register', async (req, res) => {
+  try {
+    let user = await User.findOne({ email: req.body.email });
+    if (user) return res.status(400).send('User already exists');
+
+    user = new User(req.body);
+    await user.save();
+    res.status(201).send('User registered successfully');
+  } catch (error) {
+    console.error(error);
+    res.status(500).send('Server error');
+  }
+});
+
+// Login route
+app.post('/login', async (req, res) => {
+  try {
+    const user = await User.findOne({ email: req.body.email });
+    if (!user) return res.status(400).send('User does not exist');
+
+    const isMatch = await bcrypt.compare(req.body.password, user.password);
+    if (!isMatch) return res.status(400).send('Invalid credentials');
+
+    res.send('Login successful');
+  } catch (error) {
+    console.error(error);
+    res.status(500).send('Server error');
+  }
+});
+MONGODB_URI=mongodb://localhost:27017/yangkoch
+PORT=3000
