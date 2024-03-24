@@ -1,0 +1,146 @@
+
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  padding: 15px 0;
+}
+
+.logo {
+  max-height: 80px; /* Adjust this value as needed */
+  width: auto; /* Maintains aspect ratio */
+}
+
+.heading-container {
+  text-align: center;
+  margin-bottom: 0; /* Removes bottom margin */
+}
+
+h1 {
+  font-family: 'Roboto Mono', sans-serif;
+  font-weight: 700; /* Make the headline bold */
+  font-size: 24px;
+  color: #333333; /* Assuming a dark background, white text */
+  text-align: center; /* Center the headline */
+  
+  margin: 20px 0; /* Add some space around the headline */
+}
+
+
+.video-container {
+  margin-top: 0; /* Removes top margin */
+  display: flex;
+  justify-content: center;
+}
+
+/* Ensure the video maintains aspect ratio and does not become too large */
+.video-container video {
+  max-width: 100%;
+  height: auto;
+}
+
+.donate-button {
+  background-color: #FF4500; /* Urgency-inducing orange */
+  color: white;
+  padding: 15px 30px; /* Comfortable spacing */
+  font-size: 18px; /* Clear readability */
+  font-family: 'Roboto Mono', monospace;
+  border: none;
+  border-radius: 5px; /* Softened edges */
+  cursor: pointer; /* Indicates interactiveness */
+  transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Smooth transitions */
+  margin-top: 20px; /* Adds space above the button */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle drop shadow */
+}
+
+.donate-button:hover {
+  background-color: #FF6347; /* Lighter shade on hover */
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); /* Enhanced drop shadow on hover */
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px; /* Adds space above the button */
+}
+
+
+
+.chart-container {
+  display: flex;
+  flex-direction: column;
+  padding-top: 30px;
+  align-items: center;
+  justify-content: center;
+}
+
+footer {
+    margin-top: 100px;
+    border-top: 2px solid rgba(200, 200, 200, 0.5); /* Light gray separator */
+    text-align: center;
+    padding: 10px 0;
+}
+
+footer img {
+    width: 100px; /* Adjust as needed */
+    height: auto;
+    padding: none;
+    margin: none; 
+}
+
+footer p {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 14px;
+    padding: none;
+    margin: none;
+
+}
+
+/* Contact Form */
+.contact-form-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.contact-form-container h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.contact-form-container input[type="text"],
+.contact-form-container input[type="email"],
+.contact-form-container textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.contact-form-container textarea {
+  height: 150px;
+  resize: vertical;
+}
+
+.contact-form-container button[type="submit"] {
+  width: 100%;
+  padding: 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.contact-form-container button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
